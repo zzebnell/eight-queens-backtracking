@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Casilla
+comment1.params=
+comment1.target=Casilla()
+comment2.params=
+comment2.target=boolean\ getOcupada()
+comment3.params=ocupada
+comment3.target=void\ setOcupada(boolean)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

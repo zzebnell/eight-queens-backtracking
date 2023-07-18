@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OchoReinas
+comment1.params=
+comment1.target=OchoReinas()
+comment2.params=fila\ nroReina
+comment2.target=void\ resolver(int,\ int)
+comment3.params=
+comment3.target=void\ mostrarTablero()
+numComments=4
